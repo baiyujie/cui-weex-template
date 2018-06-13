@@ -1,0 +1,12 @@
+{
+  "name": "@bluekit/sys-directories",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "baiyujie3 <baiyujie@jd.com>",
+  "license": "Apache2.0"
+}
